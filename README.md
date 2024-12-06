@@ -1,5 +1,13 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=joos0207)](https://solved.ac/joos0207)
+<br>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Lee-Yeonjoo"
+  width="350"
+  height="300"
+/>
+</a>
 <!--
 **Lee-Yeonjoo/Lee-Yeonjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
